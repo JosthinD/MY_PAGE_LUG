@@ -1,0 +1,40 @@
+{
+  "squadName" : "Escuadron de superheroes",
+  "homeTown" : "Bogota",
+  "formed" : 2016,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Aqua Man",
+      "age" : 23,
+      "secretIdentity" : "Josthin",
+      "powers" : [
+        "Radiacion resistente",
+        "Se hace pequeño",
+        "Controla la radiacion"
+      ]
+    },
+    {
+      "name" : "Super Rayo",
+      "age" : 45,
+      "secretIdentity" : "Robinson Torres",
+      "powers" : [
+        "Corre alta velocidad",
+        "Se hace innotable",
+        "Tiene velocidad luz"
+      ]
+    },
+    {
+      "name" : "Fuerte Man",
+      "age" : 3000000,
+      "secretIdentity" : "Hernesto Piernagorda",
+      "powers" : [
+        "Inmortalidad",
+        "Super fuerza",
+        "Vuela",
+        "Velocidad luz"
+      ]
+    }
+  ]
+}
