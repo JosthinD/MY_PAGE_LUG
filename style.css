@@ -9,13 +9,14 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Faster One', cursive;
+  color: #FFFFFF
+  font-family: 'verdana', cursive;
 }
 
 /* header styles */
 
 h1 {
-  font-size: 7rem;
+  font-size: 4rem;
   text-align: center;
 }
 
